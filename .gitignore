@@ -1,0 +1,10 @@
+# python virtual environment
+.venv
+
+# python cache
+*.pyc
+*/**/__pycache__
+
+# dev env
+.env*
+!.env.example
